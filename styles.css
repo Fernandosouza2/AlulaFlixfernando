@@ -13,7 +13,7 @@ header {
 }
 
    section{
-    background: (184, 156, 213);
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -21,6 +21,6 @@ header {
    }
 
    .chamamda-texto {
-   margin-right: 5%;
+   margin-right: 5%px;
 }
 
